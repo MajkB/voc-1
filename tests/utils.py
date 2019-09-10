@@ -9,6 +9,7 @@ import sys
 import tempfile
 import time
 import traceback
+
 from unittest import TestCase
 from itertools import permutations
 
